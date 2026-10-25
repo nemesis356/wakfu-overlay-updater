@@ -1,4 +1,4 @@
 {
-  "version": "1.6.0.37",
+  "version": "1.6.0.36",
   "download_url": "https://github.com/nemesis356/wakfu-overlay-updater/releases/download/v1.6.0.37/Wakfu.Damage.Meter_v1.6.0.37.zip"
 }
